@@ -124,3 +124,5 @@ if(num1 > num2){
 alert(`El numero mayor es: ${num2}`)
 }
 }
+
+
