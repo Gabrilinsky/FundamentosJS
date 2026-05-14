@@ -200,3 +200,10 @@ alert(`El estudiante ${name.toUpperCase()} tiene Insuficiente
 //≥ 50.000 → Producto estándar
 //≥ 20.000 → Producto económico
 //< 20.000 → Producto básico
+
+let precio  = "200000"
+let precio1 = "100000"
+let precio2 = "50000"
+let precio3 = "20000"
+let precio4 = "20000"
+alert(`El producto de lujo es de: $${precio} `)
